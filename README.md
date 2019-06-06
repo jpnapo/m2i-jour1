@@ -4,5 +4,4 @@
 
 # Deuxième ligne
 
-# Troisième ligne
 lorem ipsum
