@@ -4,11 +4,9 @@
 
 # Deuxième ligne
 
-<<<<<<< HEAD
 # Troisième ligne
 Nouvelle information
-=======
->>>>>>> fcaab24b2bd6feac96ead5d22bebccb6194a4ac1
+
 lorem ipsum
 MODIF README
 L'Assemblée fait un geste. Les députés ont voté jeudi soir la possibilité d'un assouplissement par les départements et les maires de la limitation à 80 km/h sur les routes secondaires, mesure impopulaire considérée comme l'un des détonateurs de la crise des «gilets jaunes».
@@ -17,4 +15,6 @@ Les députés ont donné leur feu vert par un vote à main levée à l'article d
 
 
 MODIF MASTER
-MODIF1
+MODIF3
+MODIF4
+
