@@ -1,6 +1,6 @@
 ﻿# Attention : Respecter l'ordre logique d'apparition
 # Ignore le fichier
-config.ymal
+config.yaml
 
 # Ignore le répertoire
 /logs/*
