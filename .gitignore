@@ -1,0 +1,10 @@
+# Attention : Respecter l'ordre logique d'apparition
+# Ignore le fichier
+config.yaml
+
+# Ignore le répertoire
+/logs/*
+
+# Sauf le fichier .gitkeep
+!/logs/.gitkeep
+
